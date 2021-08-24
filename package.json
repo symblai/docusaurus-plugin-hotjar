@@ -1,0 +1,24 @@
+{
+  "name": "docusaurus-plugin-hotjar",
+  "version": "0.0.2",
+  "description": "A plugin which adds a Hotjar script to your docusaurus instance.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/symblai/docusaurus-plugin-hotjar.git"
+  },
+  "keywords": [
+    "docusaurus",
+    "hotjar",
+    "plugin"
+  ],
+  "author": "Adam Voliva @ Symbl.ai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/symblai/docusaurus-plugin-hotjar/issues"
+  },
+  "homepage": "https://github.com/symblai/docusaurus-plugin-hotjar#readme"
+}
